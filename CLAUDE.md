@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-Study Buddy Finder helps UCL students find someone to study with. See `SPEC.md` for the pages (Home, Browse buddies, My profile) and features (browse student cards, filter by course, edit my profile).
+Study Buddy Finder helps UCL students find someone to study with. See `SPEC.md` for the flow: a home page with one button, a page of students who are free to study (avatar, first name, course) with a filter by course, and a Nudge button on each card. Fake data only: no login, no database.
 
 This is a fresh Next.js app created with `create-next-app` (default options): App Router, TypeScript, Tailwind CSS and ESLint. There is no backend, database or login yet.
 
